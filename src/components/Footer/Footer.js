@@ -8,7 +8,7 @@ const Footer = () => {
       >
         Made with ♥ by{" "}
         <a
-          href="https://www.youtube.com/roadsidecoder"
+          href="#"
           style={{ cursor: "pointer" }}
         >
           Om Kumar
